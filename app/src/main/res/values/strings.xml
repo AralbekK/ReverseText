@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReverseText</string>
+    <string name="appname">Все наоборот</string>
+    <string name="input_text">Введите текст</string>
+    <string name="text_Change">Преобразовать</string>
+    <string name="text_result">Результат</string>
+    <string name="sum_chars">Количество символов</string>
+</resources>
